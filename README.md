@@ -1,4 +1,5 @@
-# ERC20_Tokens
+# ERC20 Fitness Tokens
+
 Tokenization using OpenZeppelin
 
 # Real-World Use-Case for this Project
@@ -7,7 +8,7 @@ Tokenization using OpenZeppelin
 
 🏦 Creation of Bonus Programs, Vouchers, etc.
 
-💲 Creation of a new crypto currency
+💲 Creation of a new crypto currency for Fitness!
 
 🧾 Creation of a Payment-layer on top of Ethereum
 
